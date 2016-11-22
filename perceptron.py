@@ -38,9 +38,3 @@ while True:
 			print "%s -> %s" % (q, step(dot(q, weights)))
 		print weights
 		break
-
-
-#happy, petting -> happy
-#happy, leash -> sad
-#sad, leash -> sad
-#mad, leash -> super mad
