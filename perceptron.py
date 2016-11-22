@@ -11,7 +11,6 @@ weights = [float(str(random())),\
 threshold = .5
 learning_rate = .2
 epochs = 0
-errors = []
 
 def step(x):
 	#Let's just return the weight
